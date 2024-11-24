@@ -1,5 +1,5 @@
 # 💫 About Me:
-v🖐️ Hey! I'm Farnaz Zarei, I'm 23 years old and i work as a front-end developer
+🖐️ Hey! I'm Farnaz Zarei, I'm 23 years old and i work as a front-end developer
 
 
 ## 🌐 Socials:
